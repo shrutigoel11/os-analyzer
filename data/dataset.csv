@@ -1,0 +1,7 @@
+OS,Slowdown_%,Background_Service_Count,T_cold,T_warm,T_native,T_virtual,P_baseline,P_thermal,Run_Time_Variance
+Windows,30,15,120,100,100,85,90,75,12
+Windows,32,16,125,102,100,83,91,74,13
+Linux,20,9,110,95,100,90,95,85,8
+Linux,18,8,108,94,100,92,96,87,7
+macOS,25,12,115,98,100,88,92,80,10
+macOS,27,13,117,99,100,87,93,79,11
